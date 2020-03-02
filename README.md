@@ -2,7 +2,7 @@
 
 [![Screen-Shot-03-01-20-at-08-39-PM.png](https://i.postimg.cc/PrjjchsX/Screen-Shot-03-01-20-at-08-39-PM.png)](https://postimg.cc/K4Jwk68w)
 
-Repositório responsável pela série de artigos sobre Node.js com PostgreSQL & Azure no dev.to
+Repositório responsável pela série de artigos onde estaremos desenvolvendo uma aplicação CRUD com Node.js & PostgreSQL com enfoque no Back-End. Após isso, estaremos migrando o projeto para arquitetura serverless, migrando a base de dados local para Azure PostgreSQL e deploy dessa aplicação no Azure Storage.
 
 O artigo foi dividido em séries. Dependendo, estarei disponibilizando em forma de vídeo também para ajudar no desenvolvimento do projeto. O enfoque do projeto será no Back-End. 
 Caso queiramos testar a aplicação no Front-End, podemos depois criar um Front-End gerérico que podemos usar para testar a API desenvolvida no Back-End.
