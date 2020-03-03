@@ -8,22 +8,11 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const mongoose = require('mongoose');
 
 const app = express();
 
 // Importando o arquivo 'database.js':
 // const database = require('./config/database'); // ==> aqui é a conexão local com o PostgreSQL
-
-mongoose.Promise = global.Promise;
-
-// ==> Conexão com Base de Dados:
-/* mongoose.connect(database.local.localUrl, { useNewUrlParser: true }).then(() => {
-  console.log('A Base de Dados foi conectada com sucesso!');
-}, (err) => {
-  console.log(`Erro ao conectar com a Base de Dados...: ${err}`);
-  process.exit();
-}); */
 
 // ==> Rotas da API:
 const index = require('./routes/index'); // linha de código temporário
