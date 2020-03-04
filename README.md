@@ -28,7 +28,7 @@ Como dito já acima, essa aplicação será dividida em séries. Abaixo estão a
 
 | Código Exemplo | Link do artigo | Vídeo Aula |
 |---|---|---|
-| **Em Breve** | **[Desenvolvendo uma Aplicação CRUD Node.js com PostGreSQL – Parte I](project-1/README.md)** | **[Vídeo 01 - Em Breve]()** |
+| **[Project-1](project-1/README.md)** | **[Desenvolvendo uma Aplicação CRUD Node.js com PostGreSQL – Parte I](project-1/README.md)** | **[Vídeo 01 - Em Breve]()** |
 | **Em Breve**  | **[Migrando o Back-End para o Serverless e Persistindo no PostGreSQL – Parte II]()** | **[Vídeo 02 - Em Breve]()** |
 | **Em Breve** | **[Migrando o Back-End para o Serverless e Persistindo no PostGreSQL – Parte III]()** | **[Vídeo 03 - Em Breve]()** |
 | **Em Breve** | **[Migrando a base de dados local da Aplicação para o Azure PostGreSQL – Parte IV]()** | **[Vídeo 04 - Em Breve]()** |
