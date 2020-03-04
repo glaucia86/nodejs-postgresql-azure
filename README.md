@@ -1,6 +1,6 @@
 # Aplicação CRUD com Node.js + PostgreSQL & Azure
 
-[![Screen-Shot-03-01-20-at-08-39-PM.png](https://i.postimg.cc/PrjjchsX/Screen-Shot-03-01-20-at-08-39-PM.png)](https://postimg.cc/K4Jwk68w)
+[![Black-and-White-Geometric-Technology-Keynote-Presentation.jpg](https://i.postimg.cc/15jcD6hW/Black-and-White-Geometric-Technology-Keynote-Presentation.jpg)](https://postimg.cc/1fDqQ8z6)
 
 Repositório responsável pela série de artigos onde estaremos desenvolvendo uma aplicação CRUD com Node.js & PostgreSQL com enfoque no Back-End. Após isso, estaremos migrando o projeto para arquitetura serverless, migrando a base de dados local para Azure PostgreSQL e deploy dessa aplicação no Azure Storage.
 
@@ -12,6 +12,7 @@ Caso queiramos testar a aplicação no Front-End, podemos depois criar um Front-
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=nodejs_postgresql_azure-github-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[Postman](https://www.getpostman.com/)**
+* **[PostgreSQL - PgAdmin](https://www.postgresql.org/download/)
 * **[Conta - Azure](https://azure.microsoft.com/pt-br/?WT.mc_id=nodejs_postgresql_azure-github-gllemos)**
 * **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=nodejs_postgresql_azure-github-gllemos)**
 * **[Extensão Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=nodejs_postgresql_azure-github-gllemos)**
@@ -27,7 +28,7 @@ Como dito já acima, essa aplicação será dividida em séries. Abaixo estão a
 
 | Código Exemplo | Link do artigo | Vídeo Aula |
 |---|---|---|
-| **Em Breve** | **[Desenvolvendo uma Aplicação CRUD Node.js com PostGreSQL – Parte I]()** | **[Vídeo 01 - Em Breve]()** |
+| **Em Breve** | **[Desenvolvendo uma Aplicação CRUD Node.js com PostGreSQL – Parte I](project-1/README.md)** | **[Vídeo 01 - Em Breve]()** |
 | **Em Breve**  | **[Migrando o Back-End para o Serverless e Persistindo no PostGreSQL – Parte II]()** | **[Vídeo 02 - Em Breve]()** |
 | **Em Breve** | **[Migrando o Back-End para o Serverless e Persistindo no PostGreSQL – Parte III]()** | **[Vídeo 03 - Em Breve]()** |
 | **Em Breve** | **[Migrando a base de dados local da Aplicação para o Azure PostGreSQL – Parte IV]()** | **[Vídeo 04 - Em Breve]()** |
