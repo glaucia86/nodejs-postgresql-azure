@@ -10,4 +10,4 @@ npm-debug.log
 .LSOverride
 
 # DB Connection String
-#config/
+src/config/database.js
