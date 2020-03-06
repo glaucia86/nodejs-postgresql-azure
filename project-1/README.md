@@ -2,7 +2,7 @@
 
 [![postgresql-04.gif](https://s5.gifyu.com/images/postgresql-04.gif)](https://gifyu.com/image/IucG)
 
-Desenvolvimento de uma aplicação aplicação CRUD com Node.js persistindo os dados localmente no PostgreSQL.
+Desenvolvimento de uma aplicação aplicação CRUD com Node.js persistindo os dados localmente no PostgreSQL. E ao final, iremos realizar o deploy dessa API no **[Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-nodejs?WT.mc_id=devto-blog-gllemos)**!
 
 ## Recursos Utilizados 🚀
 
@@ -11,10 +11,12 @@ Desenvolvimento de uma aplicação aplicação CRUD com Node.js persistindo os d
 * **[Postman](https://www.getpostman.com/)**
 * **[PostgreSQL - PgAdmin](https://www.postgresql.org/download/)**
 * **[Pacote - node-postregres](https://node-postgres/)**
+* **[Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-nodejs?WT.mc_id=devto-blog-gllemos)**
+* **[Extensão Vs Code - Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=devto-blog-gllemos)**
 
 ## Sobre o Projeto 💻
 
-Aqui ensino como você pode persistir localmente um dado no PostgreSQL com Node.js.
+Aqui ensino como você pode persistir localmente um dado no PostgreSQL com Node.js. E ao final do desenvolvimento da API aprenderemos a como realizar o deploy no serviço **[Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-nodejs?WT.mc_id=devto-blog-gllemos)**, testando no Swagger e Postman a API implementada na nuvem.
 
 ## Executando localmente a aplicação ⭐️
 

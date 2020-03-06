@@ -20,4 +20,7 @@ router.get('/products', productController.listAllProducts);
 // ==> Rota responsável por selecionar 'Product' pelo 'Id': (GET): localhost:3000/api/products/:id
 router.get('/products/:id', productController.findProductById);
 
+// ==> Rota responsável por atualizar 'Product' pelo 'Id': (PUT): localhost: 3000/api/products/:id
+router.put('/products/:id', productController.updateProductById);
+
 module.exports = router;
