@@ -1,5 +1,9 @@
 # Projeto 1 - Desenvolvendo uma Aplicação CRUD Node.js com PostgreSQL
 
+[![postgresql-04.gif](https://s5.gifyu.com/images/postgresql-04.gif)](https://gifyu.com/image/IucG)
+
+Desenvolvimento de uma aplicação aplicação CRUD com Node.js persistindo os dados localmente no PostgreSQL.
+
 ## Recursos Utilizados 🚀
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=nodejs_postgresql_azure-github-gllemos)**
@@ -39,6 +43,8 @@ Aqui ensino como você pode persistir localmente um dado no PostgreSQL com Node.
 ## Links & Recursos Importantes ❗️
 
 - ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=nodejs_postgresql_azure-github-gllemos&view=azure-node-latest)**
+- ✅ **[Início Rápido: Gerenciar blobs com o SDK do JavaScript v12 no Node.js](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-nodejs?WT.mc_id=devto-blog-gllemos)**
+- ✅ **[Criando um aplicativo Web do Node.js no Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-nodejs?WT.mc_id=devto-blog-gllemos)**
 
 ## Tenho Dúvidas... O que Faço?! ❓
 

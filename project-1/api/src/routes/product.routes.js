@@ -17,4 +17,7 @@ router.post('/products', productController.createProduct);
 // ==> Rota responsável por listar todos os 'Products': (GET): localhost:3000/api/products
 router.get('/products', productController.listAllProducts);
 
+// ==> Rota responsável por selecionar 'Product' pelo 'Id': (GET): localhost:3000/api/products/:id
+router.get('/products/:id', productController.findProductById);
+
 module.exports = router;
