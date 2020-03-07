@@ -36,11 +36,13 @@ Aqui ensino como você pode persistir localmente um dado no PostgreSQL com Node.
 
 4. Abre o Postman. Agora você poderá:
 
-* Criar um novo 'Product' em: [POST] `http://localhost:3000/api/products` 
-* Listar todos os 'Products' em: [GET] `http://localhost:3000/api/products` 
-* Listar um 'Product' pelo Id em: [GET] `http://localhost:3000/api/products/{id}` 
-* Atualizar um 'Product' pelo Id em: [PUT] `http://localhost:3000/api/products/{id}` 
-* Excluir um 'Product' pelo Id em: [DELETE] `http://localhost:7071/api/product/{id}` 
+| Método | Verbo HTTP | Endpoint |
+|---|---|---|
+| Create new Product | POST | `http://localhost:3000/api/products` |
+| List All Products | GET | `http://localhost:3000/api/products` |
+| Find Product by Id | GET | `http://localhost:3000/api/products/{id}`|
+| Update Product by Id | UPDATE | `http://localhost:3000/api/products/{id}`|
+| Delete Product by Id | DELETE | `http://localhost:3000/api/products/{id}`| 
 
 ## Links & Recursos Importantes ❗️
 

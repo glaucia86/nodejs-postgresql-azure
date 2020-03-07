@@ -23,4 +23,7 @@ router.get('/products/:id', productController.findProductById);
 // ==> Rota responsável por atualizar 'Product' pelo 'Id': (PUT): localhost: 3000/api/products/:id
 router.put('/products/:id', productController.updateProductById);
 
+// ==> Rota responsável por excluir 'Product' pelo 'Id': (DELETE): localhost:3000/api/products/:id
+router.delete('/products/:id', productController.deleteProductById);
+
 module.exports = router;
