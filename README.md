@@ -34,7 +34,7 @@ Como dito já acima, essa aplicação será dividida em séries. Abaixo estão a
 | **Em Breve** | **[Migrando a base de dados local da Aplicação para o Azure PostgreSQL – Parte IV]()** | **[Vídeo 04 - Em Breve]()** |
 | **Em Breve** | **[Automatizando o deploy da aplicação para Nuvem com Azure DevOps & GitHub Actions – Parte V]()** | **[Vídeo 05 - Em Breve]()** |
 
-## Links & Recursos Importantes ❗️
+## Links & Recursos Importantes❗️
 
 Como dito durante os artigos, sempre estaremos citando links e recursos importantes que direcionarão para: documentações, cursos gratuitos, livros e conteúdos relacionados a Node.js & PostgreSQL. Abaixo, segue uma lista desses recursos, que são considerados leituras, cursos ou livros recomendados:
 
