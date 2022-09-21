@@ -33,7 +33,7 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.1",
     "husky": "^4.2.3",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "cors": "^2.8.5",
